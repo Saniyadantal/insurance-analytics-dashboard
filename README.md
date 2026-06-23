@@ -144,7 +144,7 @@ This was a **collaborative group project** demonstrating team coordination acros
 
 | Role | Team Member | Contribution |
 |------|-------------|--------------|
-| **Data Analyst & Power BI Dev** | **Saniya Dantal** (You) | Data analysis, Power BI dashboards, GitHub coordination |
+| **Data Analyst & Power BI Dev** | **Saniya Dantal**  | Data analysis, Power BI dashboards, GitHub coordination |
 | Project Lead | Harika Tamada | Overall vision, design coordination |
 | Database Architect | Amruta Nitin Sanap | Schema design, SQL optimization |
 | Tableau Specialist | Preet Akash Nayak | Advanced visualizations |
