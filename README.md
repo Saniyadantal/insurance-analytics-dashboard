@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📊 Insurance Analytics Dashboard - Professional Portfolio
 
 ![GitHub last commit](https://img.shields.io/badge/Last%20Updated-June%202026-blue)
@@ -444,3 +445,7 @@ If you found this project helpful or impressive, please:
 ---
 
 **Questions? Reach out on LinkedIn: [saniya-dantal](https://linkedin.com/in/saniya-dantal)**
+=======
+# insurance-analytics-dashboard
+Interactive analytics dashboard for insurance branch performance  monitoring using Power BI, Tableau, and Excel.  
+>>>>>>> b3889ac994d18f13cb326529bc1165d7805e4bc6
