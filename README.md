@@ -71,12 +71,10 @@ The solution integrates **7 business datasets**:
 ---
 
 ## 📈 KPI Framework
-
--> Financial KPIs
--> Sales KPIs
--> Activity KPIs
--> Pipeline KPIs
--> Policy KPIs
+**Revenue Analysis**
+**Opportunity Pipeline Analysis**
+**Branch Performance Monitoring**
+**Policy Analytics**
 
 ---
 
