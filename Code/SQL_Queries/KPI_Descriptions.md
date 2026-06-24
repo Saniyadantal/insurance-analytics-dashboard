@@ -292,15 +292,6 @@ GROUP BY YEAR(`Policy End Date`);
 **Purpose:** Payment collection tracking
 
 **Status:** Paid, Pending, Overdue
-
----
-
-
-
-2. Paste SQL query
-3. Load results into worksheet
-4. Create pivot table
-
 ---
 
 **All queries are optimized for performance and tested on the provided datasets.**
