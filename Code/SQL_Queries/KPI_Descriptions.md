@@ -292,6 +292,7 @@ GROUP BY YEAR(`Policy End Date`);
 **Purpose:** Payment collection tracking
 
 **Status:** Paid, Pending, Overdue
+
 ---
 
 **All queries are optimized for performance and tested on the provided datasets.**
