@@ -295,23 +295,8 @@ GROUP BY YEAR(`Policy End Date`);
 
 ---
 
-## How to Use These Queries
 
-### In Your Dashboard Tools:
 
-**Power BI:**
-1. New Source → SQL Database
-2. Paste query
-3. Load into data model
-4. Create visuals from results
-
-**Tableau:**
-1. Data Source → SQL Server/MySQL
-2. Paste query
-3. Build worksheet from results
-
-**Excel:**
-1. Data → New Query
 2. Paste SQL query
 3. Load results into worksheet
 4. Create pivot table
