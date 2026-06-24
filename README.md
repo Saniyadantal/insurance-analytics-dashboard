@@ -70,84 +70,16 @@ The solution integrates **7 business datasets**:
 
 ---
 
-## 📊 Dashboards
-
-### Power BI
-
-**Branch Dashboard**
-- Revenue achievement %, total target, invoice sales (KPI cards)
-- Account executive performance scorecard
-- Revenue breakdown by New / Cross-Sell / Renewal
-- Opportunity pipeline by stage
-- Top open opportunities (drill-down)
-
-**Policy Dashboard**
-- Total policies, customers, claim amount (summary cards)
-- Policy distribution by age bucket, gender, policy type
-- Premium growth rate (YoY)
-- Claims and payment status breakdown
-- Policies expiring this year
-
-### Tableau
-
-**Branch Performance Dashboard**
-- Target vs. revenue vs. achievement %
-- Cross-sell / new / renewal pie charts
-- Brokerage vs. fees comparison
-- Sales stage funnel
-- Deep-dive: product group, income class, sales rep performance
-
-**Insurance Policy Dashboard**
-- Claim status and payment status analysis
-- Gender-wise and age-bucket-wise policy distribution
-- Premium growth trend by month
-- Policy expiration forecast (12-month view)
-
-### Excel
-
-**Branch Dashboard**
-- Pivot-table-driven KPI summary
-- Executive-level performance breakdown
-- Stage funnel by revenue
-- Meeting and invoice counts by account executive
-
-**Policy Dashboard**
-- Policy and customer summary metrics
-- Premium trends by year
-- Claims status and lapsed policy tracking
-- Risk type distribution
-
----
-
 ## 📈 KPI Framework
 
 ### Financial KPIs
-- Total Revenue
-- Total Target
-- Achievement Percentage
-- Invoice Sales
-
 ### Sales KPIs
-- New Business Revenue
-- Cross-Sell Revenue
-- Renewal Revenue
-- Open / Closed Opportunities
 
 ### Activity KPIs
-- Meeting Count (overall and by Account Executive)
-- Invoice Count
 
 ### Pipeline KPIs
-- Conversion Ratio
-- Stage Funnel by Revenue
-- Top Opportunities by Revenue
 
 ### Policy KPIs
-- Total Policies & Customers
-- Age Bucket Distribution
-- Premium Growth Rate (YoY)
-- Claim Status & Payment Status Distribution
-- Policies Expiring This Year
 
 ---
 
