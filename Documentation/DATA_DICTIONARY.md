@@ -253,7 +253,3 @@ These 7 datasets power the following KPIs:
 4. **For Analysis:** Understand business meaning of each field
 5. **For Documentation:** Explain data sources to stakeholders
 
----
-
-**Last Updated:** June 2026  
-**Data Refresh:** Real-time to Monthly (varies by dataset)
